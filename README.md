@@ -40,3 +40,10 @@ It includes everything you need:
 ✅ ``Sounds/`` folder for punishment sound effects!  
 
 Just extract and run!
+
+# ⚠️ Antivirus False Positives
+
+Some antivirus software may falsely flag the `.exe` as malicious. This is a common issue with new programs built using tools like PyInstaller, especially when packaged as a single file.
+
+**Rest assured, there is no malware in this app.**  
+You can verify this by uploading the EXE to [VirusTotal](https://www.virustotal.com/)
