@@ -10,6 +10,13 @@ volume-meter/
 ├── Sounds/     # Put punishment sounds here (.mp3)
 ├── Beamu's VolumeMeter.exe
 ```
+✅ Image Rules:
+- Place any .jpg, .png, or .jpeg image files inside the ``Images/`` folder.
+- The app will choose one randomly when the threshold is exceeded.
+
+✅ Sound Rules:
+- Place any .mp3 sound files inside the Sounds/ folder.
+- The app plays one randomly during penalty.
 
 # 🚀 Features
 Live dB meter with color-coded visual feedback
@@ -23,14 +30,6 @@ A random image pops up
 A random sound effect plays
 
 Hotkey: ``Ctrl + Shift + Q`` to force-close
-
-✅ Image Rules:
-- Place any .jpg, .png, or .jpeg image files inside the ``Images/`` folder.
-- The app will choose one randomly when the threshold is exceeded.
-
-✅ Sound Rules:
-- Place any .mp3 sound files inside the Sounds/ folder.
-- The app plays one randomly during penalty.
 
 # 🎁 Download
 
