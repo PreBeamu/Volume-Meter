@@ -11,8 +11,21 @@ volume-meter/
 ├── Beamu's VolumeMeter.exe
 ```
 
+# 🚀 Features
+Live dB meter with color-coded visual feedback
+
+Set your own volume threshold
+
+When exceeded:
+
+A random image pops up
+
+A random sound effect plays
+
+Hotkey: ``Ctrl + Shift + Q`` to force-close
+
 ✅ Image Rules:
-- Place any .jpg, .png, or .jpeg image files inside the Images/ folder.
+- Place any .jpg, .png, or .jpeg image files inside the ``Images/`` folder.
 - The app will choose one randomly when the threshold is exceeded.
 
 ✅ Sound Rules:
