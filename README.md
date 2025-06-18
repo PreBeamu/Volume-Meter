@@ -18,3 +18,13 @@ volume-meter/
 ✅ Sound Rules:
 - Place any .mp3 sound files inside the Sounds/ folder.
 - The app plays one randomly during penalty.
+
+# 🎁 Download
+
+Head to the *[Release](https://github.com/PreBeamu/Volume-Meter/releases/latest) tab and download the latest ``.zip`` file.
+It includes everything you need:
+✅ Executable
+✅ ``Images/`` folder for penalty popups!
+✅ ``Sounds/`` folder for punishment sound effects!
+
+Just extract and run!
