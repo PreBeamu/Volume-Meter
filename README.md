@@ -1,5 +1,5 @@
 # Beamu's Volume Meter
-A real-time desktop decibel meter with a fun twist — if you get too loud, you'll be visually and audibly punished! 😈
+A real-time desktop decibel meter with a fun twist — if you get too loud, you'll be visually and audibly punished! 😈  
 Built with CustomTkinter, PyAudio, and Pygame.
 
 # 📁 Folder Setup
@@ -21,10 +21,10 @@ volume-meter/
 
 # 🎁 Download
 
-Head to the [Release](https://github.com/PreBeamu/Volume-Meter/releases/latest) tab and download the latest ``.zip`` file.
-It includes everything you need:
-✅ Executable
-✅ ``Images/`` folder for penalty popups!
-✅ ``Sounds/`` folder for punishment sound effects!
+Head to the [Release](https://github.com/PreBeamu/Volume-Meter/releases/latest) tab and download the latest ``.zip`` file.  
+It includes everything you need:  
+✅ Executable  
+✅ ``Images/`` folder for penalty popups!  
+✅ ``Sounds/`` folder for punishment sound effects!  
 
 Just extract and run!
