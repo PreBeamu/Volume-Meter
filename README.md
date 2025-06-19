@@ -29,7 +29,7 @@ A random image pops up
 
 A random sound effect plays
 
-Hotkey: ``Ctrl + Shift + Q`` to force-close
+Hotkey: ``Ctrl + Shift + Q`` to force-close  
 Hotkey: ``Ctrl + Shift + H`` to toggle AlwaysOnTop
 
 # 🎁 Download
